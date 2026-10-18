@@ -1,0 +1,4 @@
+/target/
+/MyPass.exe
+*.kdbx
+*.kdbx.bak

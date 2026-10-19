@@ -4,6 +4,12 @@
 
 MyPass 独立运行，无需安装或附带 KeePassXC。
 
+## 下载 Windows 版
+
+[下载 MyPass.exe（Windows 64 位）](https://github.com/zxgtor/MyPass/releases/download/v0.1.0/MyPass.exe) · [发布说明和 SHA256 校验文件](https://github.com/zxgtor/MyPass/releases/tag/v0.1.0)
+
+下载后双击运行，无需安装。此版本为早期预览版，尚未经过独立安全审计，建议先使用测试数据。
+
 界面在启动时自动跟随 Windows 用户的显示语言：中文显示简体中文，英语及其他暂不支持的语言显示英文。更改 Windows 显示语言后，重启 MyPass 生效。不会翻译或修改密码库中的账号内容。
 
 ## 开始使用
